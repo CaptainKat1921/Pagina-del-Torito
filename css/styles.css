@@ -1,0 +1,29 @@
+.backcontent {
+    background-color: rgb(0, 0, 0);
+}
+.varnav{
+    background-color: rgb(207, 40, 40);
+}
+.primary{
+    color: white;
+    background-color: rgb(207, 40, 40);
+}
+.navbar-brand{
+    color: white;
+    font-size: 175%;
+}
+.nav-link{
+    color: white;
+}
+.active{
+    font-weight: bolder;
+    
+}
+.card {
+    margin: 0;
+    padding: 0;
+}
+
+.parrafo {
+    font-size: 120%;
+}
