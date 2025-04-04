@@ -6,8 +6,13 @@ Paleta de Colores
 #FCBF49 Amarillo
 #EAE2B7 Crema
 */
+footer{
+    background-color: #000000;
+    color:white;
+    padding: 1%;
+}
 .backcontent {
-    background-color: #EAE2B7;
+    background-color: white;
 }
 .varnav{
     background-color: #000000;
@@ -31,7 +36,9 @@ Paleta de Colores
     color:white;
     background-image: url("../resources/22.jpg");
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
+    background-position: center;
+   
 }
 .navbar-brand{
     color: white;
@@ -39,7 +46,7 @@ Paleta de Colores
     font-size: 130%;
 }
 .nav-link{
-    color: #EAE2B7;
+    color: white;
 }
 .act{
     color: #F77F00;
@@ -50,6 +57,7 @@ Paleta de Colores
     font-size: 120%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifs;
     font-weight: normal;
+    color: white;
 }
 .extras {
     background-color: #000000;
@@ -77,4 +85,7 @@ Paleta de Colores
 }
 .amarillo{
     color: #f8f400;
+}
+.negro{
+    color:#000000;
 }
